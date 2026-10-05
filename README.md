@@ -324,9 +324,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👩‍💻 Author
 
-**Pranitha Pindi**  
+**Venkata Teja Patnam**  
 Infosys Internship Project  
-[GitHub Profile](https://github.com/Pranithapindi)
+[GitHub Profile](https://github.com/VenkataTejaP9587)
 
 ---
 
